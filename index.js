@@ -9,3 +9,5 @@ const myName =  (name) => {
 myName(name)
 
 console.log('hello world')
+
+myName(name)
