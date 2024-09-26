@@ -10,3 +10,7 @@ myName(name)
 const isAbove18 = (age) => {
     return age >= 18;
 }
+
+function isDeveloperIsExperienced(years) {
+    return years >= 1
+}
